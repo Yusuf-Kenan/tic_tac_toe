@@ -4,7 +4,7 @@ This app created to understand Flutter. It is a basic app that made me to unders
 
 <h2>Screen Emulator</h2>
 
-For screen emulator Nexus_6P_API was used. On next projects Apple devices will be used as well.
+For screen emulator Nexus_6P API 31 was used. On next projects Apple devices will be used as well.
 
 <h2>Screan Gif</h2>
 
